@@ -36,7 +36,7 @@ function getGhostVoteContract(chainId: number | undefined): GhostVoteContractInf
   }
 
   const entry = GhostVoteAddresses[addressKey];
-  if (!entry || entry === ZERO_ADDRESS) {
+  if (!entry || entry === "" || entry === ZERO_ADDRESS) {
     return { abi: GhostVoteABI, chainId };
   }
 
