@@ -1,0 +1,15 @@
+arrowParens: always
+bracketSpacing: true
+endOfLine: auto
+printWidth: 120
+semi: true
+singleQuote: false
+tabWidth: 2
+trailingComma: es5
+overrides:
+  - files: "*.sol"
+    options:
+      printWidth: 80
+      tabWidth: 4
+      singleQuote: false
+

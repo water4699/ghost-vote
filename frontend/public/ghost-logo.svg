@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60" fill="none">
+  <rect width="48" height="48" rx="10" fill="#9333EA" y="6"/>
+  <path d="M24 12C18.4772 12 14 16.4772 14 22V38C14 38.5523 14.4477 39 15 39C15.5523 39 16 38.5523 16 38V36.5L18 38.5V36.5L20 38.5V36.5L22 38.5V36.5L24 38.5V36.5L26 38.5V36.5L28 38.5V36.5L30 38.5V36.5L32 38.5V36.5L34 38.5C34 38.5523 34.4477 39 35 39C35.5523 39 36 38.5523 36 38V22C36 16.4772 31.5228 12 26 12H24Z" fill="white"/>
+  <circle cx="20" cy="23" r="2" fill="#9333EA"/>
+  <circle cx="30" cy="23" r="2" fill="#9333EA"/>
+  <path d="M22 29C22 29 23 30.5 25 30.5C27 30.5 28 29 28 29" stroke="#9333EA" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="56" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">GhostVote</text>
+</svg>
+

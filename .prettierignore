@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# testing
+coverage
+coverage.json
+
+# production
+build
+dist
+
+# hardhat
+cache
+artifacts
+typechain
+typechain-types
+types
+
+# frontend
+.next
+out
+frontend/node_modules
+
